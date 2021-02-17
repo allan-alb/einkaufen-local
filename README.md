@@ -1,4 +1,4 @@
-<h2 align="center">Einkaufen</h2>
+<h2 align="center">Einkaufen-Local</h2>
 <h4 align="center">Simple e-commerce interface for product browsing/selection and cart management</h4>
 
 ### Built in:
@@ -8,7 +8,7 @@
 
 ### uses:
 <ul tyle="list-style-type:disc;">
-  <li>localStorage, to store cart items and checked-out carts;</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage">localStorage</a>, to store cart items and checked-out carts;</li>
   <li><a href="https://github.com/styled-components/styled-components">Styled Components</a>, to beautifully style through ES6 and CSS;</li>
   <li><a href="https://github.com/typicode/json-server">JSON Server</a>, to simulate a REST API from which the products are fetched.</li>
 </ul>
